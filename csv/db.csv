@@ -1,0 +1,16 @@
+ID;Nº Factura;Fecha;Cliente;Email;Teléfono;Medicamento;Categoría;Cantidad;Precio Unitario;Total Línea;Estado;Método Pago
+1;F001;2025-07-11;Laura Gómez;laura@gmail.com;3012223344;Suplemento Vitamínico;Suplemento;1;40;40;Pendiente;Efectivo
+2;F001;2025-07-14;Laura Gómez;laura@gmail.com;3012223344;Antiparasitario Oral;Medicamento;1;55;55;Pendiente;Tarjeta
+3;F001;2025-07-17;Ana Torres;ana@gmail.com;3001112233;Pomada Cicatrizante;Tópico;1;65;65;Pendiente;Transferencia
+4;F002;2025-07-26;Laura Gómez;laura@gmail.com;3012223344;Suplemento Vitamínico;Suplemento;4;40;160;Pendiente;Tarjeta
+5;F002;2025-07-01;Juan Rojas;juanr@gmail.com;3109988776;Antibiótico Canino;Medicamento;3;90;270;Pendiente;Transferencia
+6;F002;2025-07-08;Laura Gómez;laura@gmail.com;3012223344;Pomada Cicatrizante;Tópico;2;65;130;Pagada;Tarjeta
+7;F003;2025-07-05;Ana Torres;ana@gmail.com;3001112233;Antiparasitario Oral;Medicamento;4;55;220;Pagada;Efectivo
+8;F003;2025-07-02;Ana Torres;ana@gmail.com;3001112233;Antiparasitario Oral;Medicamento;2;55;110;Pendiente;Efectivo
+9;F003;2025-07-20;Laura Gómez;laura@gmail.com;3012223344;Antiparasitario Oral;Medicamento;1;55;55;Pagada;Tarjeta
+10;F003;2025-07-30;Laura Gómez;laura@gmail.com;3012223344;Pomada Cicatrizante;Tópico;2;65;130;Pendiente;Efectivo
+11;F003;2025-07-05;Ana Torres;ana@gmail.com;3001112233;Suplemento Vitamínico;Suplemento;3;40;120;Pendiente;Tarjeta
+12;F004;2025-07-30;Juan Rojas;juanr@gmail.com;3109988776;Suplemento Vitamínico;Suplemento;3;40;120;Pagada;Tarjeta
+13;F004;2025-07-31;Laura Gómez;laura@gmail.com;3012223344;Antiparasitario Oral;Medicamento;4;55;220;Pendiente;Tarjeta
+14;F004;2025-07-08;Laura Gómez;laura@gmail.com;3012223344;Suplemento Vitamínico;Suplemento;1;40;40;Pagada;Tarjeta
+15;F004;2025-07-21;Ana Torres;ana@gmail.com;3001112233;Antibiótico Canino;Medicamento;1;90;90;Pagada;Efectivo
